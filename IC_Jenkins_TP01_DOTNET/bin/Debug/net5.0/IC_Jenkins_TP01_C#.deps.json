@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IC_Jenkins_TP01_C#/1.0.0": {
+        "runtime": {
+          "IC_Jenkins_TP01_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IC_Jenkins_TP01_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
